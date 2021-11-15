@@ -36,8 +36,3 @@
   
   ##
  
- <div>
-  
-  ![Snake animation](https://github.com/oliveiraluizz/oliveiraluizz/blob/outpu/github-contribution-grid-snake.svg);
-  
- </div>
