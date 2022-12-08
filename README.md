@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente sou um desenvolvedor Full-Stack com foco em Java.
-- 🌱 Atualmente estudando Flutter, SpringBoot e Laravel.
+- 🌱 Atualmente estudando Java e Node.js.
 
 <div align="center">
   <a href="https://github.com/oliveiraluizz">
