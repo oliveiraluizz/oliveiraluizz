@@ -32,9 +32,10 @@ Olá! Eu sou Luiz Henrique Oliveira! 👋
   
   ##
 
- 
+ <div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://oliveiraluizz.github.io/snk/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://oliveiraluizz.github.io/snk/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake" src="https://oliveiraluizz.github.io/snk/github-contribution-grid-snake.svg" />
 </picture>
+ </div>
